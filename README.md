@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on web development with C#, Angular and PHP
 
-- 🌱 I'm currently studying **JavaScript, HTML5, CSS3 and Docker**
+- 🌱 I'm currently studying **C#, Python and Docker**
 
 - 📫 How to reach me: **caioms321@gmail.com**
 
